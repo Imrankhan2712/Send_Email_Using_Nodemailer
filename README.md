@@ -16,7 +16,10 @@ In the terminal of the vs code, install all the dependencies into the environmen
 
    4. To install nodemailer type "npm install nodemailer" in the terminal.
    
-   After installing all the packages, don't forget to add SMTP credentials in the "app.js" file of the project.
-   Open your browser and go to http://localhost:3000 . If all goes well then you will see
+After installing all the packages, don't forget to add SMTP credentials in the "app.js" file of the project.
+Open your browser and go to http://localhost:3000 . If all goes well then you will see
+
+   ![sendemail](https://user-images.githubusercontent.com/42775205/89374632-97d1ad80-d709-11ea-9c42-1a44c6a6b2f3.png)
    
    
+Now you can able to send & receive real time Emails to multiple users also.
